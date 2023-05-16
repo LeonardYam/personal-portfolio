@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: #ADB5BD;
+    text-align: center;
+    margin: 0;
+    font-size: 18px;
+}
+
+main {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+a:hover {
+    color: yellow;
+}
+
+em {
+    color: #E9ECEF;
+}

@@ -1,0 +1,43 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 10px;
+    color: #6C757D;
+}
+
+.footerLink {
+    color: #6C757D;
+    padding: 0 10px 0 10px;
+}
+
+.footerLink:hover {
+    color: white;
+}
+
+.navBar {
+    text-align: right;
+    padding: 10px 0 10px 0;
+}
+
+.navLink {
+    color: white;
+    padding: 5px;
+    margin: 30px;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.navLink:hover {
+    color: yellow;
+}
+
+#resume {
+    border: 1px solid yellow;
+    border-radius: 2px;
+    color: yellow;
+}
+
+#resume:hover {
+    box-shadow: 2px 2px yellow;
+}
