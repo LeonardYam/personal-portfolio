@@ -3,7 +3,6 @@ import { Analytics } from "@vercel/analytics/react";
 import React from "react";
 import NavBar from "@/app/NavBar";
 import Footer from "@/app/Footer";
-import 'normalize.css'
 import './global.css';
 import "@fortawesome/fontawesome-svg-core/styles.css"
 import { config } from "@fortawesome/fontawesome-svg-core"
