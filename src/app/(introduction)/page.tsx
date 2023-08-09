@@ -3,7 +3,7 @@ export default function Page() {
     <div>
       <em>Currently looking for internship opportunities</em>
       <p>
-        Hi! I&apos;m <em>Leonard</em>, a year 2 Computer Science undergraduate in the National University of Singapore
+        Hi! I&apos;m <em>Leonard</em>, a year 3 Computer Science undergraduate in the National University of Singapore
       </p>
       <p>
         My current interests are: <em>web development, data structures and algorithms</em>
