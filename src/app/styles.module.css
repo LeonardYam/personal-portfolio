@@ -1,6 +1,7 @@
 .footer {
     position: relative;
     color: #6C757D;
+    margin-top: 1em;
 }
 
 .footerLink {
@@ -17,7 +18,7 @@
     flex-flow: row wrap;
     justify-content: space-evenly;
     text-align: right;
-    margin: 1em;
+    padding: 1em;
 }
 
 .navLink {
