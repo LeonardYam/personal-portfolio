@@ -32,9 +32,10 @@ body {
     background-color: black;
     color: #ADB5BD;
     text-align: center;
-    margin: 0 1em 0 1em;
+    padding: 0 1em 0 1em;
     font-size: 18px;
     min-width: 320px;
+    min-height: 100dvh;
     overflow: auto;
 }
 
