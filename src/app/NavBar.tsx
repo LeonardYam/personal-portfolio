@@ -15,7 +15,7 @@ export default function NavBar() {
 			<NavLink href={"/"} name={"intro"} />
 			<NavLink href={"/projects"} name={"projects"} />
 			<NavLink href={"/open-source"} name={"open-source"} />
-			<NavLink href={"/Leonard_Yam_Resume.pdf"} name={"resume"} id={styles.resume}/>
+			<NavLink href={"/Leonard_Yam_resume.pdf"} name={"resume"} id={styles.resume}/>
 		</nav>
 	)
 }
