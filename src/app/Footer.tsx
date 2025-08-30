@@ -6,7 +6,7 @@ import styles from "./styles.module.css"
 
 export default function Footer() {
 	const githubURL = "https://github.com/LeonardYam"
-	const linkedinURL = "https://linkedin.com/in/leonard-yam-1a645a250"
+	const linkedinURL = "https://linkedin.com/in/leonard-yam"
 	const emailURL = "mailto:yamleonard@gmail.com"
 
 	return (
